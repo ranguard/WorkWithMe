@@ -27,7 +27,6 @@ You don't have to be a coding guru, but you should be...
 - Experience with a front end framework (Vue/React/Angular etc)
 - NoSQL (some experience) - eg. Elasticsearch / DynamoDB
 - SQL (fundamentals at least) - eg. MySQL / PostgreSQL
-- Git
 - Automated Testing experience
   
 ### Nice to have
@@ -38,9 +37,6 @@ If you don't have these I can teach you most of it and we'll Google the rest tog
 - GraphQL
 - AWS serverless: lambda / api gateway / DynamoDB etc etc 
 - TypeScript
-- Some level of design skills
-
-<div class="page"/>
 
 ## Equal opportunity employers
 
