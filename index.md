@@ -4,7 +4,9 @@
 
 I'm looking for someone to work with. I recently joined a startup that I have known for several years. I want to take the startup from a great service, held together with google apps, manual data entry and sweat. To a company with the power to scale and the ability to offer an even better customer experience.
 
-[The AirAgents](https://www.theairagents.com/) is the UK’s most loved management company for Hosts on Airbnb. They deliver the best hospitality to their guests. This leads to amazing reviews, better occupancy and in turn the best possible revenue.
+[Air Agents](https://www.theairagents.com/)  are one of the worlds fastest growing management companies for hosts on Airbnb. As the first ever official Host management partner of Airbnb, they focus on providing exceptional hospitality to their guests. Thus leading to amazing reviews, better occupancy and in turn the best possible revenue for their clients. 
+
+They also have no less than 2 Dragons Den investors and have big plans to scale quickly in this fast growing sector.
 
 As green field development we'll be using all the buzz words: _"Leveraging Service full Serverless, Event driven architecture with observability, based on AWS, GraphQL, Node.js and Vue.js"_. Read [my write up on this](https://medium.com/@leolapworth/the-startup-stack-that-wasnt-1581df97b2eb) for more insight into what that actually means! We will build the core of the system, but outsource various parts to ensure the best use of our time.
 
