@@ -1,4 +1,4 @@
-# Mid Level Full Stack JavaScript Developer, with Front end experience (Remote)
+# Mid Level Full Stack JavaScript Developer, with front end experience (Remote)
 
 ## About us
 
