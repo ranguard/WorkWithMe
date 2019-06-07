@@ -14,8 +14,8 @@ As green field development we'll be using all the buzz words: _"Leveraging Servi
 
 You don't have to be a coding guru, but you should be...
 
-- You will like making things look good and be easy to use (e.g. you think about UI/UX )
-- You are at home with front end frameworks (we use Vue.js and Quasar Framework)
+- Excited to make things look good and easy to use (e.g. you think about UI/UX )
+- At home with front end frameworks (we use Vue.js and Quasar Framework)
 - Able to research and pick up technology (we will be using a _lot_ of different amazon services for example)
 - Passionate about writing clean and well-thought out code
 - A good communicator and able to clearly articulate technical problems
