@@ -1,8 +1,8 @@
-# Mid Level Full Stack JavaScript Developer (Remote)
+# Mid Level Full Stack JavaScript Developer, with Front end experience (Remote)
 
 ## About us
 
-I'm looking for someone to work with. I recently joined a startup that I have known for several years. I want to take the startup from a great service, held together with google apps, manual data entry and sweat. To a company with the power to scale and the ability to offer an even better customer experience.
+I recently joined a startup that I have known for several years. I want to take the startup from a great service, held together with google apps, manual data entry and sweat. To a company with the power to scale and the ability to offer an even better customer experience.
 
 [Air Agents](https://www.theairagents.com/)  are one of the worlds fastest growing management companies for hosts on Airbnb. As the first ever official Host management partner of Airbnb, they focus on providing exceptional hospitality to their guests. Thus leading to amazing reviews, better occupancy and in turn the best possible revenue for their clients. 
 
@@ -14,6 +14,8 @@ As green field development we'll be using all the buzz words: _"Leveraging Servi
 
 You don't have to be a coding guru, but you should be...
 
+- You will like making things look good and be easy to use (e.g. you think about UI/UX )
+- You are at home with front end frameworks (we use Vue.js and Quasar Framework)
 - Able to research and pick up technology (we will be using a _lot_ of different amazon services for example)
 - Passionate about writing clean and well-thought out code
 - A good communicator and able to clearly articulate technical problems
